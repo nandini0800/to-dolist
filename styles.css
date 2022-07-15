@@ -4,6 +4,7 @@
 	padding: 0;
 }
 body{
+	background-color: yellowgreen;
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -86,7 +87,7 @@ li button{
 	transition: 0.5s;
 }
 #doneBtn:hover{
-	background-color: orange;
+	background-color: rgba(0, 255, 106, 0.74);
 	color: white;
 }
 #deleteBtn:hover{
@@ -94,6 +95,6 @@ li button{
 	color: white;
 }
 li p{
-	width:340px;
+	width:300px;
 	text-decoration-thickness: 2px;
 }
